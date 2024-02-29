@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Квиз",
+    "game_name": "Quiz",
+    "description": "Отлично подходит, чтобы рассказать о ценностях и уникальных предложениях.",
+    "qr_code": "images/QR_code.svg",
+    "img": "images/robotImage.svg"
+  },
+  {
+    "id": 2,
+    "title": "Найди пару",
+    "game_name": "Memory",
+    "description": "Простая, но увлекательная игра на поиск двух одинковых карт. Упакуем ваши предложения в карточки и донесем их в понятном виде до пользователя.",
+    "qr_code": "images/QR_code.svg",
+    "img": "images/easyImage.svg"
+  },
+  {
+    "id": 3,
+    "title": "Платформер",
+    "game_name": "Platformer",
+    "description":
+      "Ваш маскот в нашей игре. Динамичный и стильный платформер не оставит равнодушным.",
+    "qr_code": "images/QR_code.svg",
+    "img": "images/platformImage.svg"
+  },
+  {
+    "id": 4,
+    "title": "Тапалка",
+    "game_name": "Lemon",
+    "description":
+      "Игра на скорость и логику. Показывает сильные стороны вашего проекта.",
+    "qr_code": "images/QR_code.svg",
+    "img": "images/tapImage.svg"
+  }
+]
